@@ -1,5 +1,7 @@
 # n8n Automations
 
+> AI-powered email automation workflows built with n8n
+
 A collection of automation workflows built with n8n, including email response systems powered by AI.
 
 ## 📋 Workflows

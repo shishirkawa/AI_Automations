@@ -1,0 +1,4 @@
+* text=auto
+*.json linguist-language=JSON
+*.md text
+.gitattributes text eol=lf
